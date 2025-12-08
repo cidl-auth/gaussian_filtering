@@ -24,7 +24,5 @@ This work has received funding from the research project ”Energy Efficient and
 |![DeepLet](https://deeplet.csd.auth.gr/wp-content/uploads/2025/12/DeepLET-for-Github.png)|![image](https://deeplet.csd.auth.gr/wp-content/uploads/2025/12/greece2.0-for-github.jpg)| ![image](https://deeplet.csd.auth.gr/wp-content/uploads/2025/12/hfri-for-github.jpg)|
 |-----------------|-----------------|-----------------|
 
-| [![image](https://deeplet.csd.auth.gr/wp-content/uploads/2025/12/DeepLET-for-Github.png)](https://deeplet.csd.auth.gr/) 
-| [![image](https://deeplet.csd.auth.gr/wp-content/uploads/2025/12/greece2.0-for-github.jpg)](https://example.com/link2) 
-| [![image](https://deeplet.csd.auth.gr/wp-content/uploads/2025/12/hfri-for-github.jpg)](https://example.com/link3) |
+| [![image](https://deeplet.csd.auth.gr/wp-content/uploads/2025/12/DeepLET-for-Github.png)](https://deeplet.csd.auth.gr/) | [![image](https://deeplet.csd.auth.gr/wp-content/uploads/2025/12/greece2.0-for-github.jpg)](https://example.com/link2) | [![image](https://deeplet.csd.auth.gr/wp-content/uploads/2025/12/hfri-for-github.jpg)](https://example.com/link3) |
 |-----------------|-----------------|-----------------|
