@@ -22,7 +22,7 @@ If you use this code or find our work otherwise useful, please consider citing o
 This work has received funding from the research project ”Energy Efficient and Trustworthy Deep Learning - DeepLET” is implemented in the framework of H.F.R.I call “Basic research Financing (Horizontal support of all Sciences)” under the National Recovery and Resilience Plan “Greece 2.0” funded by the European Union – NextGenerationEU (H.F.R.I. Project Number: 016762). This publication reflects the authors’ views only. The European Commission is not responsible for any use that may be made of the information it contains.
 
 
-| ![image](https://deeplet.csd.auth.gr/wp-content/uploads/2025/12/DeepLET-for-Github.png)| ![image](https://deeplet.csd.auth.gr/wp-content/uploads/2025/12/greece2.0-for-github.jpg) | ![image](https://deeplet.csd.auth.gr/wp-content/uploads/2025/12/hfri-for-github.jpg) |
-|-----------------|-----------------|-----------------|
+ ![image](https://deeplet.csd.auth.gr/wp-content/uploads/2025/12/DeepLET-for-Github.png) ![image](https://deeplet.csd.auth.gr/wp-content/uploads/2025/12/greece2.0-for-github.jpg)  ![image](https://deeplet.csd.auth.gr/wp-content/uploads/2025/12/hfri-for-github.jpg) 
+
 
 
