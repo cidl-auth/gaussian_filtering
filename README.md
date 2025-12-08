@@ -26,9 +26,4 @@ This work has received funding from the research project ”Energy Efficient and
 |-----------------|-----------------|-----------------|
 
 
-<div align="center">
-  <img src="https://deeplet.csd.auth.gr/wp-content/uploads/2025/12/DeepLET-for-Github.png" width="30%" style="display:inline-block;" />
-  <img src="https://deeplet.csd.auth.gr/wp-content/uploads/2025/12/greece2.0-for-github.jpg" width="30%" style="display:inline-block;" />
-  <img src="https://deeplet.csd.auth.gr/wp-content/uploads/2025/12/hfri-for-github.jpg" width="30%" style="display:inline-block;" />
-</div>
 
